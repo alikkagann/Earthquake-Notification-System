@@ -1,0 +1,16 @@
+<allearthquakes>
+ <earthquake>
+  <id> 001 </id>
+  <time> 6 </time>
+  <place> 4km East of San Francisco, CA </place>
+  <coordinates> -115.5808, 33.0187, 9.5 </coordinates>
+  <magnitude> 3.971428571428571 </magnitude>
+ </earthquake>
+ <earthquake>
+  <id> 002 </id>
+  <time> 15 </time>
+  <place> 21km SE of Mammoth Lakes, California </place>
+  <coordinates> -118.8353, 37.493, 1.9 </coordinates>
+  <magnitude> 3.457142857142857 </magnitude>
+ </earthquake>
+</allearthquakes>

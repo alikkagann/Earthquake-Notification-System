@@ -1,0 +1,56 @@
+Gale is added to the watcher-tree
+
+No records
+
+Earthquake 12km East of Nagoya is inserted into the earthquake-queue
+
+Mary is added to the watcher-tree
+
+Keith is added to the watcher-tree
+
+Earthquake 13km East of Nagoya is inserted into the earthquake-queue
+Earthquake 13km East of Nagoya is close to Mary
+Earthquake 13km East of Nagoya is close to Keith
+
+Keith is removed from the watcher-tree
+
+Largest earthquake in the past 6 hours:
+Magnitude 3.717142548579 at 12km East of Nagoya
+
+Earthquake 13km East of Nagoya is inserted into the earthquake-queue
+Earthquake 13km East of Nagoya is close to Mary
+
+Largest earthquake in the past 6 hours:
+Magnitude 2.784859746569 at 13km East of Nagoya
+
+Ivan is added to the watcher-tree
+
+Ed is added to the watcher-tree
+
+Pong is added to the watcher-tree
+
+Earthquake 80km WNW of Warsaw is inserted into the earthquake-queue
+Earthquake 80km WNW of Warsaw is close to Pong
+
+Earthquake 16km ESE of Bydgoszcz is inserted into the earthquake-queue
+Earthquake 16km ESE of Bydgoszcz is close to Pong
+
+Largest earthquake in the past 6 hours:
+Magnitude 2.157123593954 at 80km WNW of Warsaw
+
+Earthquake 16km S of Akureyri is inserted into the earthquake-queue
+Earthquake 16km S of Akureyri is close to Gale
+Earthquake 16km S of Akureyri is close to Ivan
+Earthquake 16km S of Akureyri is close to Ed
+Earthquake 16km S of Akureyri is close to Pong
+
+Largest earthquake in the past 6 hours:
+Magnitude 3.413194583373 at 16km S of Akureyri
+
+Gale is removed from the watcher-tree
+
+Ivan is removed from the watcher-tree
+
+No records
+
+Earthquake 16km SW of Rabat is inserted into the earthquake-queue

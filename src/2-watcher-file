@@ -1,0 +1,15 @@
+1 add -18.101683 65.679590 Gale
+2 query-largest
+5 add 136.990645 35.210104 Mary
+6 add 137.023978 35.037220 Keith
+9 delete Keith
+10 query-largest
+13 query-largest
+14 add 3.380772 36.715643 Ivan
+16 add -8.101618 54.654221 Ed
+19 add 18.071575 53.088710 Pong
+23 query-largest
+26 query-largest
+28 delete Gale
+29 delete Ivan
+32 query-largest

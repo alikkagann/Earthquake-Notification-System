@@ -1,0 +1,7 @@
+0 add -105.7 -24.3 Tom
+1 add 21.2 -38.6 Jane
+4 add -11.0 63.1 Taylor
+5 add -79.2 37.3 John
+6 add -125.1 -38.5 Henry
+8 delete Taylor
+10 query-largest

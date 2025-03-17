@@ -1,0 +1,51 @@
+<allearthquakes>
+ <earthquake>
+  <id> 001 </id>
+  <time> 4 </time>
+  <place> 12km East of Nagoya </place>
+  <coordinates> 137.032241, 35.175645, 11.3 </coordinates>
+  <magnitude> 3.717142548579 </magnitude>
+ </earthquake>
+ <earthquake>
+  <id> 002 </id>
+  <time> 7 </time>
+  <place> 13km East of Nagoya </place>
+  <coordinates> 137.057919, 35.166765, 9.2 </coordinates>
+  <magnitude> 2.395839563143 </magnitude>
+ </earthquake>
+ <earthquake>
+  <id> 003 </id>
+  <time> 12 </time>
+  <place> 13km East of Nagoya </place>
+  <coordinates> 137.057828, 35.167262, 8.2 </coordinates>
+  <magnitude> 2.784859746569 </magnitude>
+ </earthquake>
+ <earthquake>
+  <id> 004 </id>
+  <time> 20 </time>
+  <place> 80km WNW of Warsaw </place>
+  <coordinates> 18.447799, 53.105490, 9.1 </coordinates>
+  <magnitude> 2.157123593954 </magnitude>
+ </earthquake>
+ <earthquake>
+  <id> 005 </id>
+  <time> 22 </time>
+  <place> 16km ESE of Bydgoszcz </place>
+  <coordinates> 18.327222, 53.079931, 7.7 </coordinates>
+  <magnitude> 2.054666528573 </magnitude>
+ </earthquake>
+ <earthquake>
+  <id> 006 </id>
+  <time> 25 </time>
+  <place> 16km S of Akureyri </place>
+  <coordinates> -18.108224, 65.514976, 9.7 </coordinates>
+  <magnitude> 3.413194583373 </magnitude>
+ </earthquake>
+ <earthquake>
+  <id> 007 </id>
+  <time> 34 </time>
+  <place> 16km SW of Rabat </place>
+  <coordinates> 33.924946, -6.900945, 6.4 </coordinates>
+  <magnitude> 1.961957313761 </magnitude>
+ </earthquake>
+</allearthquakes>

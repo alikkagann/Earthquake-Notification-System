@@ -1,0 +1,25 @@
+Tom is added to the watcher-tree
+
+Jane is added to the watcher-tree
+
+Taylor is added to the watcher-tree
+
+John is added to the watcher-tree
+
+Henry is added to the watcher-tree
+
+Earthquake 4km East of San Francisco, CA is inserted into the earthquake-queue
+Earthquake 4km East of San Francisco, CA is close to Tom
+Earthquake 4km East of San Francisco, CA is close to Taylor
+Earthquake 4km East of San Francisco, CA is close to John
+Earthquake 4km East of San Francisco, CA is close to Henry
+
+Taylor is removed from the watcher-tree
+
+Largest earthquake in the past 6 hours:
+Magnitude 3.971428571428571 at 4km East of San Francisco, CA
+
+Earthquake 21km SE of Mammoth Lakes, California is inserted into the earthquake-queue
+Earthquake 21km SE of Mammoth Lakes, California is close to Tom
+Earthquake 21km SE of Mammoth Lakes, California is close to John
+Earthquake 21km SE of Mammoth Lakes, California is close to Henry
